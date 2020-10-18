@@ -14,7 +14,7 @@ O exemplo do resultado do desafio, [clicando aqui](https://codelabs-36174.web.ap
 
 1. Começe a escrever o seu código CSS no arquivo `style.css` na linha `6`, logo abaixo do comentário `Seu código css aqui`.
 
-## Objetivos do desafio :white_check_mark:
+## Lista de tarefas :white_check_mark:
 
 1. Coloque uma cor de fundo na página
 1. Adicione um título
