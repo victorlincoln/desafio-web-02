@@ -23,8 +23,10 @@ O exemplo do resultado do desafio, [clicando aqui](https://codelabs-36174.web.ap
 1. Limite e centralize a página em `1200px`
 1. Adicione espaço de `40px` em todas os lados da página
 1. Crie `card` com fundo branco `#fff` que tenha os conteúdos (imagem, preço, parcelamento e descrição)
-1. Adicione uma sombra nesse `card`
+1. Limite o `card` em `250px`
+1. Adicione uma sombra nesse `card`, use [esse site](https://www.cssmatic.com/box-shadow) para gerar o código 
 1. Adicione uma linha entre a imagem e o preço, dentro do `card`
+1. O `card` deve ser um link
 1. Só mostre a descrição do produto quando passar o mouse sobre ele
 
 ## Como começar o projeto?
@@ -50,6 +52,7 @@ Nesse vídeo mostra como iniciar qualquer um dos desafios, [vídeo aqui!](https:
 - [CSS: padding](https://www.w3schools.com/css/css_padding.asp)
 - [CSS: border-radius](https://www.w3schools.com/cssref/css3_pr_border-radius.asp)
 - [CSS: hover](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:hover)
+- [Gerar de sombra](https://www.cssmatic.com/box-shadow)
 
 ## Sites utilizados
 
