@@ -1,4 +1,4 @@
-## Desafio Web 02 - Lado B
+## Desafio Web 02
 
 **Objetivo:** Replicar a listagem de produtos do Mercado Livre.
 
