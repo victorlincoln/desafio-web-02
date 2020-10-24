@@ -2,7 +2,7 @@
 
 **Objetivo:** Replicar a listagem de produtos do Mercado Livre.
 
-O exemplo do resultado do desafio, [clicando aqui](https://codelabs-36174.web.app/desafio-web-02-b).
+O exemplo do resultado do desafio, [clicando aqui](https://codelabs-36174.web.app/desafio-web-02).
 
 ## Preparação :exclamation:
 
