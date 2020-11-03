@@ -1,6 +1,83 @@
 * {
   margin: 0;
   padding: 0;
+  text-decoration: none;
 }
 
 /* Seu código css aqui */
+
+body {
+  background: #ebebeb;
+}
+
+section {
+  width: 1120px;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+.título {
+  display: flex;
+  align-items: baseline;
+  margin: 0 0 16px 0;
+}
+
+.título h2 {
+  font: 23px "Roboto", sans-serif;
+  color: #666;
+  margin: 0 16px 0 0;
+}
+
+.título h2:hover {
+  color: red;
+}
+
+.título a {
+  font: 16px "Roboto", sans-serif;
+  color: #3483fa;
+}
+.título a:hover {
+  color: black;
+}
+
+.lista-produtos {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.produto {
+  background: white;
+  width: 250px;
+}
+
+.produto img {
+  width: 250px;
+}
+
+.produto .detalhes {
+  padding: 16px;
+  border-top: 1px solid;
+}
+
+.produto .detalhes h3 {
+  font: bold 24px "Roboto", sans-serif;
+  color: #333;
+  margin: 0 0 4px 0;
+}
+
+.produto .detalhes span {
+  display: block;
+  font: bold 14px "Roboto", sans-serif;
+  color: #333;
+  margin: 0 0 16px 0;
+}
+.produto .detalhes p {
+  display: none;
+  font: 14x "Roboto", sans-serif;
+  color: #666;
+}
+
+.produto:hover .detalhes p {
+  display: block;
+}
